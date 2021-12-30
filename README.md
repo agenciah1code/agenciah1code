@@ -1,9 +1,9 @@
-## Olá, eu sou o Mario Augusto Paglia Junior, fundador da Agência H1 Code e desenvolvedor front-end.
+## Olá, eu sou o Mario Augusto Paglia Junior, atuo como desenvolvedor Front-End desde 2007.
 
 <div align="center">
-    <a href="https://github.com/agenciah1code">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agenciah1code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agenciah1code&layout=compact&langs_count=7&theme=dracula" />
+    <a href="https://github.com/mariopaglia">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariopaglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopaglia&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 ### Conhecimento em...
@@ -44,6 +44,6 @@
     <a href="mailto:mpagliajr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/mpagliajr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     
-![Snake animation](https://github.com/agenciah1code/agenciah1code/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mariopaglia/mariopaglia/blob/output/github-contribution-grid-snake.svg)
 
 </div>
