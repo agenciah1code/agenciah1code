@@ -1,4 +1,4 @@
-## Olá, eu sou o Mario Augusto Paglia Junior, atuo como desenvolvedor Front-End desde 2007.
+## Olá, eu sou o Mario Paglia, atuo como desenvolvedor Front-End desde 2007.
 
 <div align="center">
     <a href="https://github.com/mariopaglia">
