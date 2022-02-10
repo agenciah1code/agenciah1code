@@ -6,7 +6,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopaglia&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
-### Skills
+## Skills
 
 <div style="display: inline_block">
     <img align="center" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
