@@ -1,4 +1,6 @@
-## Olá, eu sou o Mario Paglia, atuo como desenvolvedor front-end desde 2007.
+## Sobre mim
+
+Eu sou o Mario Paglia, um desenvolvedor front-end com mais de 15 anos de experiência. Iniciei minha carreira em 2007 e desde então tenho trabalhado em projetos de diversos tamanhos e complexidades. Sou apaixonado por criar interfaces de usuário atraentes e intuitivas, e tenho uma habilidade particular para transformar designs em código limpo e eficiente. Além de meu trabalho como desenvolvedor, também sou um entusiasta de tecnologia em geral e adoro compartilhar meus conhecimentos com outros profissionais da área.
 
 <div align="center">
     <a href="https://github.com/mariopaglia">
