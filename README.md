@@ -1,16 +1,22 @@
-## Sobre mim
+# Sobre mim
 
-Eu sou o Mario Paglia, um desenvolvedor front-end com mais de 15 anos de experiência. Iniciei minha carreira em 2007 e desde então tenho trabalhado em projetos de diversos tamanhos e complexidades. Sou apaixonado por criar interfaces de usuário atraentes e intuitivas, e tenho uma habilidade particular para transformar designs em código limpo e eficiente. Além de meu trabalho como desenvolvedor, também sou um entusiasta de tecnologia em geral e adoro compartilhar meus conhecimentos com outros profissionais da área.
+Sou um apaixonado por programação desde os 13 anos. Desde que fiz meu primeiro curso de HTML, CSS e Javascript na Impacta Tecnologia em 2009, nunca mais abandonei minha paixão e o gosto pela programação. Como desenvolvedor front-end, tenho mais de 7 anos de experiência atuando diretamente na área, desde 2016.
+
+Minha paixão é criar interfaces de usuário atraentes e intuitivas que tornem a vida dos usuários mais fácil e agradável. Além disso, sou apaixonado por sempre me aperfeiçoar e aprender, estudando novas tecnologias e aprimorando minhas habilidades.
+
+Também sou apaixonado por liderar e ensinar pessoas e equipes a atingirem seus melhores resultados. Acredito que é através do trabalho em equipe e da liderança eficaz que conseguimos alcançar os melhores resultados.
+
+Se você procura um profissional apaixonado, dedicado e com habilidades comprovadas, venha conhecer mais sobre minha jornada e realizações na programação.
+
+# Skills
 
 <div align="center">
     <a href="https://github.com/mariopaglia">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariopaglia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopaglia&layout=compact&langs_count=7&theme=dracula" />
-</div>
+</div> <br/>
 
-## Skills
-
-<div style="display: inline_block">
+<div style="display: inline_block" align="center">
     <img align="center" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" title="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -28,18 +34,16 @@ Eu sou o Mario Paglia, um desenvolvedor front-end com mais de 15 anos de experi�
     <img align="center" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
     
-  ## Currículo
+  # Currículo
     
-  [Clique aqui](https://mariopaglia.netlify.app/) para visualizar meu currículo.
+  Visite o meu site em [https://mariopaglia.dev.br](https://mariopaglia.dev.br) para visualizar meu currículo profissional.
   
-  ##
+  # Contatos
 
 <div>
     <a href="https://wa.me/5511948413923" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     <a href="mailto:mpagliajr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/mpagliajr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.behance.net/mariopaglia" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
-    
-![Snake animation](https://github.com/mariopaglia/mariopaglia/blob/output/github-contribution-grid-snake.svg)
 
 </div>
