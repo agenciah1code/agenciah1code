@@ -1,18 +1,11 @@
 # Sobre mim
 
-Sou um apaixonado por programação desde os 13 anos. Desde que fiz meu primeiro curso de HTML, CSS e Javascript na Impacta Tecnologia em 2009, nunca mais abandonei minha paixão e o gosto pela programação. Como desenvolvedor front-end, tenho mais de 7 anos de experiência atuando diretamente na área, desde 2016.
-
-Minha paixão é criar interfaces de usuário atraentes e intuitivas que tornem a vida dos usuários mais fácil e agradável. Além disso, sou apaixonado por sempre me aperfeiçoar e aprender, estudando novas tecnologias e aprimorando minhas habilidades.
-
-Também sou apaixonado por liderar e ensinar pessoas e equipes a atingirem seus melhores resultados. Acredito que é através do trabalho em equipe e da liderança eficaz que conseguimos alcançar os melhores resultados.
-
-Se você procura um profissional apaixonado, dedicado e com habilidades comprovadas, venha conhecer mais sobre minha jornada e realizações na programação.
+Desenvolvedor full-stack sênior com 10 anos de experiência, especializado na criação de soluções completas e eficientes para a web. Com um histórico robusto no desenvolvimento de interfaces intuitivas e back-ends escaláveis, estou sempre buscando aprimorar sistemas existentes e inovar com tecnologias emergentes. Engajado em projetos de código aberto, estou em constante evolução técnica, aprendendo novas linguagens e frameworks para melhorar ainda mais a performance e a qualidade dos produtos que desenvolvo. Disponível para colaborações e novas oportunidades no universo tecnológico.
 
 # Skills
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariopaglia&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariopaglia&layout=compact&langs_count=10&theme=radical" />
 </div> <br/>
 
 <div style="display: inline_block" align="center">
@@ -43,5 +36,4 @@ Visite o meu site em [https://mariopaglia.dev.br](https://mariopaglia.dev.br) pa
   <a href="https://wa.me/5511948413923" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="mailto:mpagliajr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mariopagliadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.behance.net/mariopaglia" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
